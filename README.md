@@ -1,0 +1,1 @@
+Este é um projeto que está em desenvolvimento para ser um futuro aplicativo de celular, no qual esse aplicativo irá servir para auxiliar a parte da área de enfermagem, podendo checar os dados do paciente e alertas via smartwatch.
